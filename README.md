@@ -14,9 +14,24 @@ This model is a fine-tuned version of `distilbert-base-uncased` on an unspecifie
 This is a text-classification based model.
 
 ## Training and Evaluation Data
-More information needed.
+Look below for more details about the performances.
 
-## Training Procedure
+## Steps to follow
+- Installing the Libraries
+- Loading the Dataset from HuggingFace
+- Train_test Split the Dataset
+- Model
+- Preprocess Data
+- Evaluation
+- Apply untrained base model("distilbert-base-uncased") to text
+- Train Model using LoRA
+- Generate Prediction
+- Save the Model and the Tokenizer
+- Load the Model and the Tokenizer to test
+- Push Model to HuggingFaceHub
+
+
+
 
 ### Training Hyperparameters
 The following hyperparameters were used during training:
