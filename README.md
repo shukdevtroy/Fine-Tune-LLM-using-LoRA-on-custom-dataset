@@ -66,4 +66,6 @@ You can view the model using the following link:
 
 Simply click the link to open the model file in your browser.
 
+Check out the "Fine-tune LLM.pptx" file for the theory behind this code.
+
 
