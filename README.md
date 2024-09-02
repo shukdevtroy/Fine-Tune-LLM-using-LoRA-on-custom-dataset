@@ -50,10 +50,15 @@ The following hyperparameters were used during training:
 - **Datasets:** 2.21.0
 - **Tokenizers:** 0.19.1
 
+# Dataset Viewer
+
+To view the dataset, you can use the following embedded viewer:
+
 <iframe
   src="https://huggingface.co/datasets/shukdevdatta123/twitter_sentiment_preprocessed/embed/viewer/default/train"
   frameborder="0"
   width="100%"
   height="560px"
 ></iframe>
+
 
