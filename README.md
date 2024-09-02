@@ -11,7 +11,7 @@ This model is a fine-tuned version of `distilbert-base-uncased` on an unspecifie
 - **Accuracy:** 84.16%
 
 ## Intended Uses & Limitations
-More information needed.
+This is a text-classification based model.
 
 ## Training and Evaluation Data
 More information needed.
