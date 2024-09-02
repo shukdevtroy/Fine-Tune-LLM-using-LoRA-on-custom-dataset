@@ -58,4 +58,12 @@ You can view the dataset using the following link:
 
 Simply click the link to open the dataset viewer in your browser.
 
+# Model Viewer
+
+You can view the model using the following link:
+
+[View Model in HuggingFace](https://huggingface.co/shukdevdatta123/distilbert-base-uncased-lora-text-classification/)
+
+Simply click the link to open the model file in your browser.
+
 
