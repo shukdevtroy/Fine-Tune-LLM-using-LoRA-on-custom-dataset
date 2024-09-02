@@ -54,7 +54,7 @@ The following hyperparameters were used during training:
 
 You can view the dataset using the following link:
 
-[View Twitter Sentiment Preprocessed Dataset](https://huggingface.co/datasets/shukdevdatta123/twitter_sentiment_preprocessed/embed/viewer/default/train)
+[View Twitter Sentiment Preprocessed Dataset](https://huggingface.co/datasets/shukdevdatta123/twitter_sentiment_preprocessed/)
 
 Simply click the link to open the dataset viewer in your browser.
 
