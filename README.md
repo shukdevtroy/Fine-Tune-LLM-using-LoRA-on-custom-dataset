@@ -83,4 +83,8 @@ Simply click the link to open the model file in your browser.
 
 Check out the "Fine-tune LLM.pptx" file for the theory behind this code.
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 
